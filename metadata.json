@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Grandmaster Chess",
+  "description": "A fully functional chess game with move validation, check detection, and a move log.",
+  "requestFramePermissions": []
+}
